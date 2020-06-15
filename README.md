@@ -10,7 +10,7 @@
 
 ## Install IDE
 
-Follow instructions to install [Android Studio](https://developer.android.com/studio/install).
+Follow instructions to install the latest [Android Studio](https://developer.android.com/studio/install).
 
 
 ## Start project
